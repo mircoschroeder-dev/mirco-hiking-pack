@@ -9,6 +9,16 @@ so the next autumn day hike in the rain starts exactly where you left off.
 
 The app is in English or German, depending on the language of your phone.
 
+## Why I made this
+
+I make hiking videos for my
+[YouTube channel](https://www.youtube.com/@mircoschroeder1). That means I am out on the
+trail a lot, in every season and in every kind of weather, and on top of the usual hiking
+gear I carry camera equipment. Packing became a job of its own: what do I need this time,
+what did I forget last time, and how heavy is all of it? I wanted one list for each
+situation that remembers my changes, works offline and shows me the weight before I leave.
+So I made this app.
+
 | Choose conditions | Pack and track | Item actions | Dark mode |
 |---|---|---|---|
 | ![Choose conditions](docs/screenshots/1-choose.png) | ![Packing list](docs/screenshots/2-list.png) | ![Item menu](docs/screenshots/3-item-menu.png) | ![Dark mode](docs/screenshots/4-dark-leave-at-home.png) |
