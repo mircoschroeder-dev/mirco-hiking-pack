@@ -1,0 +1,17 @@
+name: packliste_core
+description: Reine Dart-Logik der Packliste. Enthaelt absichtlich keinen Flutter-Import.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: ^3.12.0
+
+dev_dependencies:
+  test: ^1.25.0
+
+# Nur die Asset-Deklaration, damit eine Flutter-App die Datei mitliefert.
+# Das Package selbst bleibt reines Dart.
+flutter:
+  assets:
+    - assets/items.json
+    - assets/items_en.json
